@@ -1,0 +1,23 @@
+.characterCard {
+  /* background-color: rgb(113, 122, 209); */
+  border: solid 1px #646cff;
+  border-radius: 10px;
+  padding:10px;
+  position: relative;
+}
+.characterCard h3{
+  text-align: center;
+}
+.characterCard h3, .characterCard h4{
+  margin: 3px;
+}
+.characterCard__data{
+  display: flex;
+  justify-content:space-between;
+  padding:0 10px;
+}
+.btn__AddFavorite{
+  position: absolute;
+  right: 10px;
+  padding:10px;
+}

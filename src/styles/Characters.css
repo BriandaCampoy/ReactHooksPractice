@@ -1,0 +1,12 @@
+.Characters__All{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  gap: 20px;
+  margin: 20px;
+}
+.Characters{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
